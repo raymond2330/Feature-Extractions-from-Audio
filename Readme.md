@@ -8,7 +8,7 @@ py -m venv venv
 venv/Scripts/activate
 ```
 
-## Run the fucking code
+## Run the code
 ```
 py semantic.py
 ```
